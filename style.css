@@ -1,3 +1,7 @@
+#headerBar{
+    padding-bottom: 75px;
+    padding-top: 30px;
+}
 body{
     margin-left: 125px;
     margin-right: 125px;
@@ -43,8 +47,14 @@ body{
 
 }
 
+#footerInfo{
+    width: 59%;
+    display:inline-block;
+}
 
-
+#notePaper{
+    width: 100%;
+}
 
 
 
@@ -54,4 +64,21 @@ body{
     bottom: 231px;
     left: 62px;
     list-style: none;
+}
+
+
+#bottomStuff p{
+    text-align:center;
+}
+
+#bottomStuff img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: arial black;
 }
