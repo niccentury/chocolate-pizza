@@ -1,0 +1,57 @@
+body{
+    margin-left: 125px;
+    margin-right: 125px;
+}
+
+#headerBar img, #headerBar p {
+    display:inline-block;
+}
+
+#headerIcons {
+    float:right;
+}
+
+#chocoPizza{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#printLine img, #printLine p{
+    display:inline-block;
+
+}
+
+#printer{
+    display: inline-block;
+    float: right;
+}
+
+#printer p{
+    display: inline-block;
+}
+
+
+ #instructions{
+    padding-top: 25px;
+    padding-bottom: 25px; 
+}
+
+#footer-div img, #footer-div p{
+    display:inline-block;
+
+}
+
+
+
+
+
+
+#ingredients-list {
+    column-count: 2;
+    position: relative;
+    bottom: 231px;
+    left: 62px;
+    list-style: none;
+}
